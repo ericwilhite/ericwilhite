@@ -1,1 +1,2 @@
-# Hi there 👋, I'm Eric 👨🏻‍💻.
+# Hi there 👋
+# I'm Eric 👨🏻‍💻
